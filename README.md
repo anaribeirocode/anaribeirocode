@@ -13,7 +13,7 @@ Sou Ana Júlia Ribeiro, tenho 18 anos e sou do Rio de Janeiro. Atualmente, curso
 <br/>
 
 <p align="left">
-    <a href="https://github.com/anaribeirocodeh?tab=repositories&sort=stargazers">
+    <a href="https://github.com/anaribeirocode?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
