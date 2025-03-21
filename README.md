@@ -108,7 +108,7 @@ Sou Ana Júlia Ribeiro, tenho 18 anos e sou do Rio de Janeiro. Atualmente, curso
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaribeirocodeh&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaribeirocode&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
