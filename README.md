@@ -33,7 +33,14 @@ Sou Ana Júlia Ribeiro, tenho 18 anos e sou do Rio de Janeiro. Atualmente, curso
 
 ---
 
+<img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/1ca26b43-ecb6-46bb-b727-283afc64e39a">
+
 ### 🤖 Linguagens e Tecnologias ˚ · • 
+
+<h3 align="left">Conete-se comigo!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:anajuliaribeiro615@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/ana-júlia-ribeiro-c/)
 
 <img 
     align="left" 
