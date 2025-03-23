@@ -1,7 +1,5 @@
 # ʚ Ana Ribeiro ɞ
 
-<br/>
-
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=4000&pause=500&color=A565FF&width=435&lines=%E2%9C%A7+%CB%9A+Ol%C3%A1!+Boas-vindas+ao+meu+perfil+*+%C2%B7" alt="Typing SVG" /></a>
   </a>
@@ -25,8 +23,6 @@ Sou Ana Júlia Ribeiro, tenho 18 anos e sou do Rio de Janeiro. Atualmente, curso
         />
     </a>
 </p>
-
-<br/>
 
 ---
 
