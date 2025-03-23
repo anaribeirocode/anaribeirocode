@@ -6,11 +6,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=4000&pause=500&color=A565FF&width=435&lines=%E2%9C%A7+%CB%9A+Ol%C3%A1!+Boas-vindas+ao+meu+perfil+*+%C2%B7" alt="Typing SVG" /></a>
   </a>
 </div>
-<img align="right" width="20%" height="30%" alt="" src="https://user-images.githubusercontent.com/41929489/144757407-64bd4005-dbba-490f-a600-bb02ee2ab5ac.gif">
 
 Sou Ana Júlia Ribeiro, tenho 18 anos e sou do Rio de Janeiro. Atualmente, curso Engenharia de Software na Universidade de Vassouras. Tenho grande interesse por inovação tecnológica, especialmente em desenvolvimento tech e design, áreas que acredito serem essenciais para moldar o futuro. Estou sempre em busca de novos aprendizados e oportunidades para aplicar meus conhecimentos em soluções criativas.
-
-<br/>
 
 <p align="left">
     <a href="https://github.com/anaribeirocode?tab=repositories&sort=stargazers">
