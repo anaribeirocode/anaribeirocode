@@ -5,7 +5,7 @@
   </a>
 </div>
 
-Sou Ana Júlia Ribeiro, tenho 18 anos e sou do Rio de Janeiro. Atualmente, curso Engenharia de Software na Universidade de Vassouras. Tenho grande interesse por inovação tecnológica, especialmente em desenvolvimento tech e design, áreas que acredito serem essenciais para moldar o futuro. Estou sempre em busca de novos aprendizados e oportunidades para aplicar meus conhecimentos em soluções criativas.
+Sou Ana Júlia Ribeiro, tenho 19 anos e sou do Rio de Janeiro. Atualmente, curso Engenharia de Software na Universidade de Vassouras. Tenho grande interesse por inovação tecnológica, especialmente em desenvolvimento tech e design, áreas que acredito serem essenciais para moldar o futuro. Estou sempre em busca de novos aprendizados e oportunidades para aplicar meus conhecimentos em soluções criativas.
 
 <p align="left">
     <a href="https://github.com/anaribeirocode?tab=repositories&sort=stargazers">
